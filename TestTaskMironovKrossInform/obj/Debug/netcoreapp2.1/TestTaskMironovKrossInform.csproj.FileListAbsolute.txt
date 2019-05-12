@@ -1,0 +1,11 @@
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\bin\Debug\netcoreapp2.1\TestTaskMironovKrossInform.deps.json
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\bin\Debug\netcoreapp2.1\TestTaskMironovKrossInform.runtimeconfig.json
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\bin\Debug\netcoreapp2.1\TestTaskMironovKrossInform.runtimeconfig.dev.json
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\bin\Debug\netcoreapp2.1\TestTaskMironovKrossInform.dll
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\bin\Debug\netcoreapp2.1\TestTaskMironovKrossInform.pdb
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\obj\Debug\netcoreapp2.1\TestTaskMironovKrossInform.csprojAssemblyReference.cache
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\obj\Debug\netcoreapp2.1\TestTaskMironovKrossInform.csproj.CoreCompileInputs.cache
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\obj\Debug\netcoreapp2.1\TestTaskMironovKrossInform.AssemblyInfoInputs.cache
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\obj\Debug\netcoreapp2.1\TestTaskMironovKrossInform.AssemblyInfo.cs
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\obj\Debug\netcoreapp2.1\TestTaskMironovKrossInform.dll
+E:\Library\TestTaskMironovKrossInform\TestTaskMironovKrossInform\obj\Debug\netcoreapp2.1\TestTaskMironovKrossInform.pdb
